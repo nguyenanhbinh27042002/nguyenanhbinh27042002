@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21413
-Fork on GitHub
-6734
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Nguyen Anh Binh</h1>
 <h3 align="center">A passionate Embedded Software Automative in VN</h3>
 
