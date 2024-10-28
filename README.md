@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Anh Binh</h1>
-<h3 align="center">A passionate Embedded Software Automative in VN</h3>
+<h3 align="center">A passionate Embedded System Automative in VN</h3>
 
 - 🔭 I’m currently working on [Develop Device Driver Enhancements with Kernel Linux](https://github.com/nguyenanhbinh27042002/Kernel_Linux.git)
 
