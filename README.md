@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Anh Binh</h1>
 <h3 align="center">A passionate Embedded System Automative in VN</h3>
 
-- 🔭 I’m currently working on [Develop Device Driver Enhancements with Kernel Linux](https://github.com/nguyenanhbinh27042002/Kernel_Linux.git)
+- 🔭 I’m currently working on [Embedded Frimware MCU Engineer](https://github.com/nguyenanhbinh27042002/Kernel_Linux.git)
 
-- 🌱 I’m currently learning **HCMC University Technology and Education**
+- 🌱 I’ve learned **HCMC University Technology and Education**
 
 - 👯 I’m looking to collaborate on [Matlab-simulink-for-Robot-AGV](https://github.com/nguyenanhbinh27042002/Matlab-simulink-for-Robot-AGV.git)
 
